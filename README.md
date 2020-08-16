@@ -2,7 +2,7 @@
 
 # Group name: Khabir
 # Group members: 
-Alaaeldin Mohamed 1614507
+
 
 
 # Title: Student Information Management System
@@ -39,6 +39,7 @@ errorMessage="Field Specific Error Message"
 
 # XSS and CSRF Prevention:-
 - fn:escapeXml() EL function when (re)displaying user-controlled input. 
+- JSTL Tag <c:out value="${bean.userControlledValue}"/>
 
 # Database Security Principles:-
 -Implementation of Advanced Encryption Standard(AES) and Data Encryption Standards(DES) on student's details database table
