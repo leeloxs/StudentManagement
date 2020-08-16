@@ -16,20 +16,7 @@ it is to develop a fully secure web application for students record that aims to
 # Web application security enhancement: 
 
 # Input Validation:-
-- Text field character/POST Method submission
-- WebLogic validation 
-
-<prefix:form method="GET"|"PUT" action="allEntriesValid.jsp"/>
-<--Fields /Field Validations Defined Here-->
-<input type="text" name="fieldA" >
-<prefix:validator fieldToValidate="fieldA"
-validatorClass="weblogicx.jsp.tags.validators.NameValidator"
-errorMessage="Field Specific Error Message"
->
-<img src="image.gif">Field Specific Error Message
-</prefix:validator>
-<input type="submit" value="Button Label">
-</prefix:form>
+validating inouts using different types of jsp input validation methods such as WebLogic Server Tag Library,using tags,Specifying Security in the Deployment Descriptor and Programmatic Security in a Servlet/JSP to protect the system from the malicius attacks
 
 # Authentication:-
 
