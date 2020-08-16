@@ -1,4 +1,4 @@
-# StudentManagement
+*StudentManagement*
 
 # Group name: Khabir
 # Group members: 
