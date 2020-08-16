@@ -5,10 +5,10 @@
 
 
 
-# Title:
+# Title: Student Information Management System
 
 # intoduction:
-"Student information Management System" offers a number of functions for managing students ' personal profiles, containing all student data concerning identification number, email address, first and last name.
+"Student Management System" offers a number of functions for managing students ' personal profiles, containing all student data concerning identification number, email address, first and last name.
 
 # Objectives: 
 it is to develop a fully secure web application for students record that aims to secure the personal data and decrease the time of paper-based work.
