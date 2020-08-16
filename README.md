@@ -19,6 +19,8 @@ it is to develop a fully secure web application for students record that aims to
 validating inouts using different types of jsp input validation methods such as WebLogic Server Tag Library,using tags,Specifying Security in the Deployment Descriptor and Programmatic Security in a Servlet/JSP to protect the system from the malicius attacks
 
 # Authentication:-
+We can use filters or intercept or bot:
+Filter can pre-process a request before it reaches a servlet, post-process a response leaving a servlet
 
 
 # Authorization:-
